@@ -24,6 +24,6 @@ pytest==4.5.0
 python-dotenv==0.9.1
 six==1.11.0
 wcwidth==0.1.7
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 wrapt==1.10.11
 zipp==0.5.1
